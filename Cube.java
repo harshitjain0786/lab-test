@@ -1,4 +1,4 @@
-//Write a  Java program  to display the cube of the number upto given  integer.
+//THE PROG. OF CUBE OF NUMBERS
 
 import java.util.Scanner;
  class Cube
