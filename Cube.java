@@ -7,12 +7,12 @@ import java.util.Scanner;
    public static void main(String[] args)
 
 {
-    int i,No,Cube;
-    System.out.println("Enter a No :- ");
+    int i,Num,Cube;
+    System.out.println("Enter a Num :- ");
     Scanner scan = new Scanner(System.in);     
-		    No = scan.nextInt();
+		    Num = scan.nextInt();
 
-     for(i=1;i<=No;i++)                      
+     for(i=1;i<=Num;i++)                      
      {
          
          Cube = i*i*i;                		
