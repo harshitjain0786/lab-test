@@ -6,7 +6,7 @@ public class Vowels {
 	public static void main(String args[])
 	
 	{
-		String str= "kalgi";
+		String str= "Harshit";
 		str=str.toLowerCase();
 		int count=0;
 		
