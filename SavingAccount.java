@@ -1,6 +1,6 @@
 package com.ThursdayLab;
 
-public class SAVINGACCOUNT {
+public class Savingaccount {
 	public static double annualInterestRate;
 	private double savingsBalance;
 	public void SavingsAccount() {
