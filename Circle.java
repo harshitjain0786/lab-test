@@ -1,6 +1,6 @@
 package com.ThursdayLab;
 
-public class CIRCLE {
+public class Circle{
 	private static int count;  
 	float center,radius;
 	public Circle(float c,float r) {
