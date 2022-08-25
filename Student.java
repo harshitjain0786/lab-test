@@ -1,5 +1,5 @@
 package com.ThursdayLab;
-class STUDENT{
+class Student{
 	private String name;
 	protected int id;
 	double grade;
